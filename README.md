@@ -73,4 +73,4 @@ print("----------------------------------------------------------------------")
 
 
 ## Result
-![243261541-d61c45cf-04e3-4052-aeb4-ebb3cbe9ac2d](https://github.com/prithviraj5703/Open-Jacson-Networks/assets/121418418/dc59bbf0-ff8d-4c4e-ac2c-263de7dff46d)
+The average number of material in the sysytem and in the conveyor and waiting time are successfully found.
